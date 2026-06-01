@@ -1,0 +1,10 @@
+{
+  "images": {},
+  "videos": {
+    "final": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/67181d5e-3e05-4a0d-b63b-534de5f78ec4/videos/final.mp4",
+    "scene-1": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/67181d5e-3e05-4a0d-b63b-534de5f78ec4/videos/scene-1.mp4"
+  },
+  "frames": {},
+  "bucket": "site-assets",
+  "projectId": "67181d5e-3e05-4a0d-b63b-534de5f78ec4"
+}

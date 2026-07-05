@@ -36,7 +36,7 @@ export const siteConfig = {
     defaultDescription:
       "London film and video production studio. Commercials, documentaries, feature films and branded content — directed, shot and finished in-house.",
     defaultOgImage:
-      "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/67181d5e-3e05-4a0d-b63b-534de5f78ec4/images/og-image.png",
+      "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/67181d5e-3e05-4a0d-b63b-534de5f78ec4/images/og-image.png",
     twitterHandle: "@blackframe",
     noindexPaths: ["/account", "/admin", "/auth", "/api"],
     structuredData: {

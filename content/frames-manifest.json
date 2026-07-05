@@ -1,9 +1,9 @@
 {
   "frameCount": 192,
-  "frameDir": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/67181d5e-3e05-4a0d-b63b-534de5f78ec4/frames",
+  "frameDir": "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/67181d5e-3e05-4a0d-b63b-534de5f78ec4/frames",
   "fps": 24,
   "width": 1920,
-  "frameUrlTemplate": "https://zykgxmubadvmlxpkqrzd.supabase.co/storage/v1/object/public/site-assets/67181d5e-3e05-4a0d-b63b-534de5f78ec4/frames/frame-{NNNN}.jpg",
+  "frameUrlTemplate": "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/67181d5e-3e05-4a0d-b63b-534de5f78ec4/frames/frame-{NNNN}.jpg",
   "sceneId": "scene-1",
   "storage": "supabase"
 }
